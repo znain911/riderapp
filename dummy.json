@@ -1,0 +1,49 @@
+[
+    {
+        "id": "1",
+        "userId": "0001",
+        "pickupLocation": {
+            "latitude": 23.7660, 
+            "longitude": 90.3588
+            },
+        "destination": {
+            "latitude": 23.7320, 
+            "longitude": 90.4066
+            },
+        "timestamp": "2024-10-27 12:01:34",
+        "dropOff": "Shegun Bagicha, DHaka",
+        "pickup": "Style Touch, Ring Road, Mohammadpur"
+    },
+
+    {
+        "id": "2",
+        "userId": "0002",
+        "pickupLocation": {
+            "latitude": 23.7645, 
+            "longitude": 90.3584
+            },
+        "destination": {
+            "latitude": 23.8181, 
+            "longitude": 90.3672
+            },
+        "timestamp": "2024-10-27 12:01:34",
+        "dropOff": "Mirpur 10, DHaka",
+        "pickup": "Japan Garden City, Mohammadpur"
+    },
+
+    {
+        "id": "3",
+        "userId": "0003",
+        "pickupLocation": {
+            "latitude": 23.7668, 
+            "longitude": 90.3650
+            },
+        "destination": {
+            "latitude": 23.9181, 
+            "longitude": 90.3872
+            },
+        "timestamp": "2024-10-27 12:01:34",
+        "dropOff": "Tongi",
+        "pickup": "Gajnabi Rd, Mohammadpur"
+    }
+]
